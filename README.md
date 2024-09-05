@@ -1,4 +1,6 @@
-# npm i
+# USE FOLLOWING COMMANDS ONCE AFTER INSTALL
 
-# npm start
+## npm i
+
+## npm start
 
